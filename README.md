@@ -1,4 +1,4 @@
 # tryangular-v1
-App demonstrating different functionalities in Angular4
+Boilerplate Angular4 + ngx-bootstrap App
 
 This project is live [here](http://tryangular4.herokuapp.com/)
